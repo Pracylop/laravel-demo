@@ -76,7 +76,7 @@ To get a Laravel App Running, you have to implement the following steps
 
 ## Installing PHP and Composer
 
-The process of installing PHP and Composer depend on your OS. To install on Windows, follow the guidelines in the following [YouTube Video]()
+The process of installing PHP and Composer depend on your OS. To install on Windows, follow the guidelines in the following [YouTube Video](https://www.youtube.com/watch?v=pd3pmxvpvPI&list=PLIFOQt8bpWgFsW6CaxGiegryknwqBNCaZ&index=1)
 
 For Mac OS, install `brew` and then use the following commands
 `brew install php`
